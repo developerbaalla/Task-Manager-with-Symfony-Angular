@@ -6,7 +6,7 @@ The App contains a basic login system that allows to create and edit users, also
 
 Looks like this:
 
-![alt tag](symfony_angular_app_.png)
+![alt tag](symfony_angular_app.png)
 
 In order to setup the app, please run this steps:
 
